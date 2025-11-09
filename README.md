@@ -1,15 +1,23 @@
-<p align="center">
-  <a href="[https://kustomzone.github.io](https://github.com/kustomzone/kustomzone.github.io)">
-    <img src=".github/logo.png" width="150" alt="Space Time">
-  </a>
-</p>
+<table>
+  <tr style="background-color: #000000;">
+    <td style="background-color: #000000;">
+      <p>
+        <a href="[https://kustomzone.github.io](https://github.com/kustomzone/kustomzone.github.io)">
+          <img src=".github/logo.png" width="937" height="367" alt="Space Time">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 [![Python](https://img.shields.io/pypi/pyversions/strix-agent?color=3776AB)](https://pypi.org/project/strix-agent/)
 
-## Space Time Sim 
+## $\boldsymbol{\color{green} Space\ Time}$
 
 > [!TIP]
-> **Sound!** No volume or pause control
+>
+> Todo: :sound: Add volume control or pause
+>
 
 ---
 
